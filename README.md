@@ -6,6 +6,6 @@
 
 ## Bevölkerungsverteilungen in den Lebensweltlich orientierten Räumen Berlins (2019)
 
-![enter image description here](https://github.com/MelvinPiater/GIS/blob/main/LOR_2019.png?raw=true)
+
 
 
